@@ -15,7 +15,8 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+#locale                   : "en-US"
+locale                   : "ko"
 title                    : "TTA 아카데미 실습 자료실"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
